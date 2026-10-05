@@ -17,7 +17,7 @@
 # (fallback) — never partially.
 set -eu
 
-repo="JonasBaeumer/herdr-file-annotator"
+repo="cantona/herdr-file-annotator"
 bin_name="herdr-annotator"
 
 plugin_root="${HERDR_PLUGIN_ROOT:-$(pwd)}"
